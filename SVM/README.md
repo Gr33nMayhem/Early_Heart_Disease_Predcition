@@ -1,0 +1,1 @@
+SVM in sklearn around 85.1% accuracy can be achieved in the raw data.
